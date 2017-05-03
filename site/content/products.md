@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Company Title Here
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
